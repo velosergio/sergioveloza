@@ -1,11 +1,11 @@
 # Sergio Veloza
 ## Mi pagina personal
 
-### [Ver 0.0.0.4 - 19 Agosto 2018]
+### [Ver 0.0.0.4a] - 20 Agosto 2018
 * Se agrego la pagina Proyectos [0% desarrollo]
 * Se agrego la pagina Empresas [80% desarrollo]
 * Se agrego la pagina Biografia [0% desarrollo]
-* Se elimino OWL Carousel
+* Se optimizo OWL Carousel por CDN y se actualizo a la version [1.3.3] -- .a review--
 
 --
 
