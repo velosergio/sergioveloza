@@ -12,7 +12,7 @@ $conex=mysqli_connect($server,$user,$pass,$bd);
  if (!$conex) {
   die("Error: ".mysqli_connect_error());
  }
-$query = "insert into contacto values('','".$nombres."','".$email."','".$mensaje."','NOW()')";
+$query = "insert into contacto values(NULL,'".$nombres."','".$email."','".$mensaje."',NOW())";
 
 if(mysqli_query($conex, $query))
 {
