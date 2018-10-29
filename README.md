@@ -1,6 +1,14 @@
 # Sergio Veloza
 ## Mi pagina personal
 
+### [Ver 0.0.0.6] - 29 Octubre 2018
+*Optimizado:*
+- Imagenes
+- HTML
+- Js
+*Mejoras:*
+- Buscando w3 validacion
+
 ### [Ver 0.0.0.5] - 22 Agosto 2018
 *Optimizado:*
 * banner.jpg
