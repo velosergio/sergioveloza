@@ -1,6 +1,14 @@
 # Sergio Veloza
 ## Mi pagina personal
 
+### [Ver 0.0.0.7] - 31 Octubre 2018
+*Optimizado*
+- Imagenes
+- Html
+- Js
+- Css
+* Se limpia la instalacion
+
 ### [Ver 0.0.0.6] - 29 Octubre 2018
 *Optimizado:*
 - Imagenes
